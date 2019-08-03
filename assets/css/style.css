@@ -4,21 +4,24 @@
 
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #777777;
     line-height: 25px;
     text-align: center;
-    background: gold;
-    width: 960px;
+    background: #ffffff;
     margin: auto;
 }
 
+
 #navigation {
     position: fixed;
-    background: navajowhite;
-    border: 2px;
-    border-color: black;
+    background: red;
+    border: 10px;
+    border-color: #cccccc;
     width: 960px;
+
 }
 
+/*
 #your_name {
     color: white;
     font-size: 30px;
@@ -57,18 +60,13 @@ body {
     background: green;
 }
 
-
-
-
-
-
-
-
+*/
 
 #wrapper {
     overflow: auto;
     clear: both;
     width: 960px;
     background: chartreuse;
+    margin: auto;
 }
 
